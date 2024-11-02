@@ -1,0 +1,10 @@
+isbi/
+build_done/
+build/
+.lightning_studio
+.idea
+.vscode
+.vscode-server
+.wget-hsts
+output3/
+R-50.pkl
